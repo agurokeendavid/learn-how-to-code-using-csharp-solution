@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserInputLecture3", "UserIn
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise1", "Exercise1\Exercise1.csproj", "{15686E25-1F07-4926-B0AE-27D43EBFB27C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BooleanLogicLecture", "BooleanLogicLecture\BooleanLogicLecture.csproj", "{88135C80-BC84-4B62-B760-896F9F94C22A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BooleanLogicLecture2", "BooleanLogicLecture2\BooleanLogicLecture2.csproj", "{1FCBAA45-0ED9-4C89-B86D-E1EEC10D59DE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{15686E25-1F07-4926-B0AE-27D43EBFB27C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{15686E25-1F07-4926-B0AE-27D43EBFB27C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{15686E25-1F07-4926-B0AE-27D43EBFB27C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88135C80-BC84-4B62-B760-896F9F94C22A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88135C80-BC84-4B62-B760-896F9F94C22A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88135C80-BC84-4B62-B760-896F9F94C22A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88135C80-BC84-4B62-B760-896F9F94C22A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FCBAA45-0ED9-4C89-B86D-E1EEC10D59DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FCBAA45-0ED9-4C89-B86D-E1EEC10D59DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FCBAA45-0ED9-4C89-B86D-E1EEC10D59DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FCBAA45-0ED9-4C89-B86D-E1EEC10D59DE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
