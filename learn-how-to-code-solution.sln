@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "learn-how-to-code-solution"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariablesLecture", "..\VariablesLecture\VariablesLecture.csproj", "{432DC579-A0F5-4779-9205-D5986EFDDD7F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperatorsLecture", "OperatorsLecture\OperatorsLecture.csproj", "{0338B778-8E17-4D59-8FE6-63874BC8ECC7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{432DC579-A0F5-4779-9205-D5986EFDDD7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{432DC579-A0F5-4779-9205-D5986EFDDD7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{432DC579-A0F5-4779-9205-D5986EFDDD7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0338B778-8E17-4D59-8FE6-63874BC8ECC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0338B778-8E17-4D59-8FE6-63874BC8ECC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0338B778-8E17-4D59-8FE6-63874BC8ECC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0338B778-8E17-4D59-8FE6-63874BC8ECC7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
