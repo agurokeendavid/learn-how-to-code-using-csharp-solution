@@ -1,37 +1,30 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace IntroMethodsLecture
+namespace ReturningPassingDataLecture
 {
     class Program
     {
         static void Main(string[] args)
         {
-            /*
-             * Use Pascal Case in naming methods.
-             * returnType Name (parameters)
-             * {
-             *      // do this
-             * }
-             * */
             Console.WriteLine("You're learning how to program!");
-            PrintCongrats();
+            Console.WriteLine(ReturnCongratsMessage());
 
             Console.WriteLine("You're doing so well!");
-            PrintCongrats();
+            Console.WriteLine(ReturnCongratsMessage());
 
             Console.WriteLine("You're going to be rich!");
-            PrintCongrats();
+            Console.WriteLine(ReturnCongratsMessage());
 
             Console.ReadKey();
         }
 
-        private static void PrintCongrats()
+        static string ReturnCongratsMessage()
         {
-            Console.WriteLine("Congratulations!!");
+            return "Congratulations!";
         }
     }
 }
