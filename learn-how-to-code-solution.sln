@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.28307.1000
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "learn-how-to-code-solution", "learn-how-to-code-solution\learn-how-to-code-solution.csproj", "{DABEE70D-2BC8-460C-903C-79AC58510D77}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariablesLecture", "..\VariablesLecture\VariablesLecture.csproj", "{432DC579-A0F5-4779-9205-D5986EFDDD7F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariablesLecture", "VariablesLecture\VariablesLecture.csproj", "{432DC579-A0F5-4779-9205-D5986EFDDD7F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperatorsLecture", "OperatorsLecture\OperatorsLecture.csproj", "{0338B778-8E17-4D59-8FE6-63874BC8ECC7}"
 EndProject
@@ -62,6 +62,12 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise6", "Exercise6\Exercise6.csproj", "{6E566BA4-507E-4713-9552-3FAE4F14BC93}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise7", "Exercise7\Exercise7.csproj", "{85D4B79C-BF03-4B35-8BE0-80D2901AEA01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringManipulationLecture", "StringManipulationLecture\StringManipulationLecture.csproj", "{96E808AC-5788-45A7-88CC-9DCD22D0C510}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringManipulationLecture2", "StringManipulationLecture2\StringManipulationLecture2.csproj", "{F2CEDE14-7DEF-4AF5-BB5A-9CC8B0EEB166}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringManipulationLecture3", "StringManipulationLecture3\StringManipulationLecture3.csproj", "{989BBEE2-A56C-4C64-A79C-B6C1260C2E98}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -189,6 +195,18 @@ Global
 		{85D4B79C-BF03-4B35-8BE0-80D2901AEA01}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{85D4B79C-BF03-4B35-8BE0-80D2901AEA01}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{85D4B79C-BF03-4B35-8BE0-80D2901AEA01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96E808AC-5788-45A7-88CC-9DCD22D0C510}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96E808AC-5788-45A7-88CC-9DCD22D0C510}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96E808AC-5788-45A7-88CC-9DCD22D0C510}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96E808AC-5788-45A7-88CC-9DCD22D0C510}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2CEDE14-7DEF-4AF5-BB5A-9CC8B0EEB166}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2CEDE14-7DEF-4AF5-BB5A-9CC8B0EEB166}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2CEDE14-7DEF-4AF5-BB5A-9CC8B0EEB166}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2CEDE14-7DEF-4AF5-BB5A-9CC8B0EEB166}.Release|Any CPU.Build.0 = Release|Any CPU
+		{989BBEE2-A56C-4C64-A79C-B6C1260C2E98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{989BBEE2-A56C-4C64-A79C-B6C1260C2E98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{989BBEE2-A56C-4C64-A79C-B6C1260C2E98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{989BBEE2-A56C-4C64-A79C-B6C1260C2E98}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
