@@ -95,6 +95,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExistingCode", "ExistingCod
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyNamespace", "MyNamespace\MyNamespace.csproj", "{A6425744-824D-41F8-BCF2-71FE4FF6AC74}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstructorsLecture", "ConstructorsLecture\ConstructorsLecture.csproj", "{851E7062-9CE1-462A-823C-4E354183000C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -285,6 +287,10 @@ Global
 		{A6425744-824D-41F8-BCF2-71FE4FF6AC74}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A6425744-824D-41F8-BCF2-71FE4FF6AC74}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A6425744-824D-41F8-BCF2-71FE4FF6AC74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{851E7062-9CE1-462A-823C-4E354183000C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{851E7062-9CE1-462A-823C-4E354183000C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{851E7062-9CE1-462A-823C-4E354183000C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{851E7062-9CE1-462A-823C-4E354183000C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
